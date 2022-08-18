@@ -1,0 +1,7 @@
+pycaret
+streamlit
+fastparquet
+pandas
+numpy
+matplotlib
+statsmodels
